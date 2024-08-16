@@ -27,4 +27,4 @@ int main(void)
     full = binary_tree_is_full(root->right);
     printf("Is %d full: %d\n", root->right->n, full);
     return (0);
-	
+}
